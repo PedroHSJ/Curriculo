@@ -11,3 +11,7 @@ body{
 #experiencias{
     width: 50vw;
 }
+
+#conhecimentos li{
+    font-weight: bold;
+}
