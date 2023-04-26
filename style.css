@@ -1,0 +1,13 @@
+body{
+    background-color: #f5f5f5;
+    padding: 35px;
+    font-family: 'Lato', sans-serif;
+}
+
+#resumo{
+    width: 50vw;
+}
+
+#experiencias{
+    width: 50vw;
+}
